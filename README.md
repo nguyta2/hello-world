@@ -1,2 +1,5 @@
 # hello-world
-Automatic stuffs
+
+Hi humans!
+
+Tam here! I love java.
